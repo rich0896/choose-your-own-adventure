@@ -1,3 +1,3 @@
 # my new story
 
-text message
+text message 2
