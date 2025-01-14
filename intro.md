@@ -6,4 +6,7 @@ You do not recognize where you are, and you have no memory of how you arrived he
 
 **What do you do?**
 
-- [Walk down the dark hallway](dark-hallway.md)
+* [Walk down the dark hallway](dark-hallway.md)
+* [You stay where you are](stay.md)
+* [Explore a glowing hallway](glowing-hallway.md)
+* [INTO THE SHADOW'S GRASP](shadow's%20grasp.md)
