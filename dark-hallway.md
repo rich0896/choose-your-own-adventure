@@ -9,3 +9,6 @@ After several careful steps, you pause. A low, throbbing pulse seems to reverber
 A drop of water falls from the ceiling onto your shoulder, making you flinch. You realize just how tense you are. Your heart pounds in your chest, and your fingers tremble slightly against the cold stone.
 
 **What do you do?**
+
+* [Press on toward the faint red light](dark-hallway-faint-red-light.md)
+* [Feel your way back toward the circular room](intro.md)
