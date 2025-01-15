@@ -4,4 +4,4 @@ You step into the hallway, the vibrant hues of the glowing walls bathing you in 
 
 As you move forward, the air grows warmer, and you begin to hear faint whispers coming from the walls themselves. A doorway appears at the far end of the hallway, its frame shimmering with the same colorful glow.
 
-Do you:
+What do you do:
