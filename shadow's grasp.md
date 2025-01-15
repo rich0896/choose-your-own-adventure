@@ -10,6 +10,14 @@ Suddenly, a sound disrupts the silence: a faint, rhythmic tapping from ahead, fo
 You glance back, but the darkness is absolute. The red light pulses again, brighter now, casting strange shapes in the distance. The tapping stops. The silence that follows feels louder than the noise itself.
 
 Do you press forward toward the red light, or do you retreat into the suffocating blackness behind you?
+Press Forward Toward the Red Light
+
+You steady your breathing and move toward the faint red glow. With every step, the tapping noise seems to echo in your head, louder and closer than before. As the light becomes clearer, you can make out a shape moving within its glow. It's humanoid but distorted, its movements jerky and unnatural.
+
+Your heart races as you close the distance. The figure stops moving and turns toward you, its face obscured by the shifting shadows. A cold chill runs down your spine as it raises a hand, pointing directly at you. The red light flickers violently.
+
+Do you call out to the figure, or try to sneak closer without being seen?
+
 
 
 
